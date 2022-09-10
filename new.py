@@ -14,3 +14,6 @@ i=0
 while i < len(Ist):
     print(i,s[i],Ist[i],tpl[i])
     i+=1
+
+
+print("********END OF THE CODE***********")
